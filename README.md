@@ -1,7 +1,7 @@
 # graph_api_examples
 Microsoft Graph API Examples
 
-# How to run the completed project
+# Description
 
 This is a collection of examples authenticating and using Microsoft Graph API to send and receive/view emails. Reading and writing to One Drive.
 
